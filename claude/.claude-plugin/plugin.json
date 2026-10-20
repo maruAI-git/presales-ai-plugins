@@ -1,0 +1,15 @@
+{
+  "name": "presales-proposal-knowhow",
+  "displayName": "프리세일즈 제안서 노하우",
+  "version": "1.3.0",
+  "description": "한국어 제안서·RFP 대응·PPT 작성을 위한 프리세일즈 실무 노하우와 페이지 템플릿. 작성은 사용자의 AI가 수행합니다.",
+  "author": {
+    "name": "아마란스",
+    "email": "help@presales.co.kr",
+    "url": "https://presales.co.kr"
+  },
+  "homepage": "https://presales.co.kr/proposals/connect",
+  "repository": "https://github.com/maruAI-git/presales-ai-plugins",
+  "license": "MIT",
+  "keywords": ["proposal", "rfp", "ppt", "제안서", "템플릿", "프리세일즈"]
+}

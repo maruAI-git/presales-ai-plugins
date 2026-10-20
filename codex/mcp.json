@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "presales": {
+      "type": "streamable-http",
+      "url": "https://presales.co.kr/api/presales-knowhow/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": { "mode": "dcr" },
+            "resource": "https://presales.co.kr/api/presales-knowhow/mcp",
+            "baseScopes": ["knowhow:read", "knowhow:write"]
+          }
+        }
+      }
+    }
+  }
+}
