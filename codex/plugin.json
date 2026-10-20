@@ -18,7 +18,7 @@
       "interface": {
         "displayName": "PRESALES Proposal Knowhow",
         "shortDescription": "Expert proposal page templates",
-        "longDescription": "Use reviewed Korean proposal guides, checklists, and page templates with your own Codex or ChatGPT. Sign in to your PRESALES account and approve the OAuth connection. Explore the catalog for free, then use existing writing credits only within your approved project budget. Each issued page material grant spends one writing credit. Your own AI writes the document. This plugin does not sell credits or initiate payments or upgrades.",
+        "longDescription": "Use reviewed Korean proposal guides, checklists, and page templates with your own Codex. Sign in to your PRESALES account and approve the OAuth connection. Explore the catalog for free, then use existing writing credits only within your approved project budget. Each issued page material grant spends one writing credit. Your own AI writes the document. This plugin does not sell credits or initiate payments or upgrades.",
         "developerName": "아마란스",
         "category": "Productivity",
         "capabilities": ["자료 목록과 잔액 조회", "승인된 프로젝트 예약", "페이지 자료 이용권 발급", "미사용 예약 해제"],

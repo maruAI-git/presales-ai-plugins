@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "presales": {
-      "type": "http",
-      "url": "https://presales.co.kr/api/presales-knowhow/mcp",
-      "oauth": { "scopes": "knowhow:read knowhow:write" }
-    }
-  }
-}

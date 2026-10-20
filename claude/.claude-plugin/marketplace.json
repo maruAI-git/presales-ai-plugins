@@ -1,8 +1,0 @@
-{
-  "name": "presales",
-  "metadata": { "description": "프리세일즈 실무 제안서 노하우와 페이지 템플릿 플러그인" },
-  "owner": { "name": "아마란스", "email": "help@presales.co.kr" },
-  "plugins": [
-    { "name": "presales-proposal-knowhow", "source": "./", "description": "프리세일즈 실무 노하우와 페이지 템플릿" }
-  ]
-}

@@ -2,7 +2,7 @@
 
 ![프리세일즈](./assets/logo.png)
 
-프리세일즈는 실무에서 만든 제안서의 작성 노하우·체크리스트·페이지 템플릿을 제공합니다. 이 플러그인은 한국어 제안서, RFP 대응, 사업 제안 PPT를 작성하는 사용자의 Codex 또는 ChatGPT가 해당 자료를 활용하도록 돕습니다. 완성 문서의 작성 모델은 사용자가 이용하는 AI입니다. 기존 프리세일즈 문서 구매·판매는 사이트에서 별도로 유지됩니다.
+프리세일즈는 실무에서 만든 제안서의 작성 노하우·체크리스트·페이지 템플릿을 제공합니다. 이 플러그인은 한국어 제안서, RFP 대응, 사업 제안 PPT를 작성하는 사용자의 Codex가 해당 자료를 활용하도록 돕습니다. 완성 문서의 작성 모델은 사용자가 이용하는 AI입니다. 기존 프리세일즈 문서 구매·판매는 사이트에서 별도로 유지됩니다.
 
 PRESALES supplies reviewed proposal writing guides, page layouts, and checklists to your own AI assistant. A PRESALES account and explicit OAuth permission are required. Catalog and balance lookups do not spend credits. Creating a project reserves the approved writing budget, and each issued page material grant spends one writing credit. This package does not buy credits or process payments.
 
